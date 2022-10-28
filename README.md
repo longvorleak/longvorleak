@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://longvorleak.github.io/](https://longvorleak.github.io/)
-
+- 👨‍💻 All of my projects are available at [(http://www.longvorleak.com/)](http://www.longvorleak.com/)
 - 📫 How to reach me: **longvorleak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
