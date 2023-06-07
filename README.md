@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vorleak</h1>
+<h1 align="center">Hi, I'm Vorleak 👋</h1>
 <h3 align="center">A passionate frontend developer located in Seoul, South Korea.</h3>
 
 - 🌱 I’m currently learning **react**
